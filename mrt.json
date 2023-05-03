@@ -1,7 +1,7 @@
 {
   "fingerprints": [
     {
-      "name" : "*.nbs.dev",
+      "name" : "nbs.dev",
       "fingerprint" : "C8zjj5fAL+6F2R14Zoi2LE5TOHzvHzncugOhuICPxPk=",
       "expires" : 1685767542,
       "signature" : "MEYCIQCFu1tGrVyBufjkucaNK9aTewU7sm/SSLmBdnar/8xt4QIhAKk+6W3o24MCbRl04WqSvFlDfTgOw1NGMnnUgDI0NC6L"
